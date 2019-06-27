@@ -1,0 +1,2 @@
+# nicebot
+good bot
